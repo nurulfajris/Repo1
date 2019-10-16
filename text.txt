@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 26AC-9A46
+
+ Directory of C:\Users\nurul\Desktop\Tes
+
+10/15/2019  03:59 PM    <DIR>          .
+10/15/2019  03:59 PM    <DIR>          ..
+10/15/2019  03:59 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  16,080,601,088 bytes free
